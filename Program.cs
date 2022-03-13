@@ -12,6 +12,7 @@ namespace EmployeeWage
             emp.UC3();
             emp.UC4();
             emp.UC5();
+            emp.UC6();
 
 
 

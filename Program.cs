@@ -9,6 +9,7 @@ namespace EmployeeWage
             Employee1 emp = new Employee1();
             emp.UC1Employee();
             emp.UC2DailyEmployeeWage();
+            emp.UC3();
 
 
 

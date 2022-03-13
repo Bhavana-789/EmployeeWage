@@ -11,6 +11,7 @@ namespace EmployeeWage
             emp.UC2DailyEmployeeWage();
             emp.UC3();
             emp.UC4();
+            emp.UC5();
 
 
 
